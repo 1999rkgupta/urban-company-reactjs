@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/urban-company-reactjs/static/css/main.56aa5e53.css",
+    "main.js": "/urban-company-reactjs/static/js/main.0ac22ff6.js",
+    "static/media/bgImage.jpg": "/urban-company-reactjs/static/media/bgImage.8df8a6978e1ac4b57421.jpg",
+    "index.html": "/urban-company-reactjs/index.html",
+    "main.56aa5e53.css.map": "/urban-company-reactjs/static/css/main.56aa5e53.css.map",
+    "main.0ac22ff6.js.map": "/urban-company-reactjs/static/js/main.0ac22ff6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56aa5e53.css",
+    "static/js/main.0ac22ff6.js"
+  ]
+}
